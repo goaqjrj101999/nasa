@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>샘플 블로그</title>
+    <item>
+      <title>첫 번째 테스트 글</title>
+      <link>https://blog.naver.com/sample/223123456789</link>
+      <description><![CDATA[<p>테스트 설명입니다. <strong>HTML</strong> 태그를 제거합니다.</p>]]></description>
+      <pubDate>Tue, 06 Oct 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>두 번째 테스트 글</title>
+      <link>https://blog.naver.com/PostView.naver?blogId=sample&amp;logNo=223000000001</link>
+      <description><![CDATA[두 번째 설명입니다.]]></description>
+      <pubDate>Mon, 05 Oct 2026 03:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
